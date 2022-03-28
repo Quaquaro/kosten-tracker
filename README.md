@@ -1,3 +1,9 @@
+# Kosten-Tracker
+This is a small application that allows you to keep track of your expenses. It was created from a Youtube-tutorial.
+
+## STATUS: PENDING
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
